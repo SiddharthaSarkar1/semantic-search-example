@@ -5,7 +5,7 @@ model = SentenceTransformer('all-MiniLM-L6-v2')
 query = "refund"
 
 documents = [
-    "money refunded"
+    "money refunded",
     "money back",
     "return payment",
     "cancel order",
